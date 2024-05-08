@@ -5,3 +5,5 @@
 - ng g c test-request-get => components.html
 export => api.get.componet
 import => app.modulte.ts
+
+# google => fire and ice api
